@@ -1,0 +1,12 @@
+language: csharp
+sudo: false
+matrix:
+  include:
+    - os: linux
+      mono: 4.6.2
+    - os: linux
+      mono: latest
+    - os: osx
+      mono: latest
+script:
+  - ./build.sh --target "Travis" --configuration "Release"

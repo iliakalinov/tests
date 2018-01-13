@@ -1,0 +1,5 @@
+E:\test\tests-master\UnitTestProject2\.vs\UnitTestProject2\lut\0\b\UnitTestProject2.dll
+E:\test\tests-master\UnitTestProject2\.vs\UnitTestProject2\lut\0\b\UnitTestProject2.pdb
+E:\test\tests-master\UnitTestProject2\.vs\UnitTestProject2\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+E:\test\tests-master\UnitTestProject2\.vs\UnitTestProject2\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.dll
+E:\test\tests-master\UnitTestProject2\.vs\UnitTestProject2\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.pdb

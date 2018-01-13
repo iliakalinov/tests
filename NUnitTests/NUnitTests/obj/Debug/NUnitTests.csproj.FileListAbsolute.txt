@@ -1,0 +1,13 @@
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\bin\Debug\NUnitTests.dll
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\bin\Debug\NUnitTests.pdb
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\bin\Debug\nunit.framework.dll
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\bin\Debug\nunit.framework.xml
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\obj\Debug\NUnitTests.dll
+E:\4kurs\тестирование_шульга\NUnitTests\NUnitTests\obj\Debug\NUnitTests.pdb
+E:\4kurs\tests\NUnitTests\NUnitTests\bin\Debug\NUnitTests.dll
+E:\4kurs\tests\NUnitTests\NUnitTests\bin\Debug\NUnitTests.pdb
+E:\4kurs\tests\NUnitTests\NUnitTests\bin\Debug\nunit.framework.dll
+E:\4kurs\tests\NUnitTests\NUnitTests\bin\Debug\nunit.framework.xml
+E:\4kurs\tests\NUnitTests\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+E:\4kurs\tests\NUnitTests\NUnitTests\obj\Debug\NUnitTests.dll
+E:\4kurs\tests\NUnitTests\NUnitTests\obj\Debug\NUnitTests.pdb
